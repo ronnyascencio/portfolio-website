@@ -1,2 +1,8 @@
+assets/external/
+.states
+*.db
+*.py[cod]
+__pycache__/
+.web
 .venv
 portfolio-website.code-workspace
